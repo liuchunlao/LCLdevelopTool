@@ -5,7 +5,7 @@ s.authors     = { 'liucl' => 'liuchunlao@qq.com' }
 s.homepage    = 'https://github.com/liuchunlao/LCLdevelopTool'
 s.summary     = 'an easy tool for developing.'
 s.source      = { :git => 'https://github.com/liuchunlao/LCLdevelopTool.git',
-:tag => "1.0.3" }
+:tag => "2.0" }
 s.license     = { :type => "MIT", :file => "LICENSE" }
 
 s.platform = :ios, '8.0'
